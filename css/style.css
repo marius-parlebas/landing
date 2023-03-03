@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Golos+Text:wght@500&family=Lora&family=Oswald:wght@300&family=Quicksand&family=Roboto&display=swap');
+
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+
+
+body {
+	font-family: 'Golos Text', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: black;
+}
+
+h1, h2, h3 {
+	font-family: 'Fjalla One', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+}
